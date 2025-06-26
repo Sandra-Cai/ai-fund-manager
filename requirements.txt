@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+pytorch
+ta-lib
+yfinance
+ccxt
+fastapi
